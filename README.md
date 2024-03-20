@@ -21,6 +21,7 @@ x 9, y 11, z 112
 
 Based on my understanding of the requirements this is correct because.
 
+
 X starts at 7 and stops at 8 ->  so 1 timestep for x
 Y starts at 8 and stops at 17 -> so 9  timesteps for y
 Z starts at 17 and ends at 19 -> so 2 timesteps for z
